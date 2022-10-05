@@ -1,7 +1,7 @@
 
-#A03
+# A03
 
-#PART 1:
+# PART 1:
  
 Ok let’s start with git What’s Git? Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. 
 You could download git here https://git-scm.com/downloads . 
@@ -28,7 +28,7 @@ Then click on push then a window will appear then click on merge.
  Now finally when you go to github the changes that were made in webstorm will appear on github. Well done!!!
 
 
-#PART 2:
+# PART 2:
 
 Glossary to include these terms in a bulleted list.
 
