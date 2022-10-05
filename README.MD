@@ -26,6 +26,7 @@ Then click on push then a window will appear then click on merge.
 
 
 <b>Part 2:</b>
+
 Glossary to include these terms in a bulleted list.
 Branch: A branch is a version of your repository, or in other words, an independent line of development. A repository can contain multiple branches,
 Clone: is primarily used to point to an existing repo and make a clone or copy of that repo in a new directory, at another location. 
