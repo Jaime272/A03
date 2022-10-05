@@ -25,7 +25,7 @@ Then click on push then a window will appear then click on merge.
  Now finally when you go to github the changes that were made in webstorm will appear on github. Well done!!!
 
 
-<b>Part 2:</b>
+<b>PART 2:</b>
 
 Glossary to include these terms in a bulleted list.
 Branch: A branch is a version of your repository, or in other words, an independent line of development. A repository can contain multiple branches,
