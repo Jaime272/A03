@@ -1,4 +1,5 @@
-<b>PART 1:</b>
+#A03
+#PART 1:
  
 Ok let’s start with git What’s Git? Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. 
 You could download git here https://git-scm.com/downloads . 
@@ -25,7 +26,9 @@ Then click on push then a window will appear then click on merge.
  Now finally when you go to github the changes that were made in webstorm will appear on github. Well done!!!
 
 
-<b>PART 2:</b>Glossary to include these terms in a bulleted list.
+#PART 2:
+
+Glossary to include these terms in a bulleted list.
 
 <b>Branch:</b> A branch is a version of your repository, or in other words, an independent line of development. A repository can contain multiple branches,
 <b>Clone:</b> is primarily used to point to an existing repo and make a clone or copy of that repo in a new directory, at another location. 
