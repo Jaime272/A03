@@ -43,7 +43,7 @@ programmers collaboratively developing source code during software development
 
 * <b>Merge:</b> is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by the git branch and integrate them into a single branch.
 
-* <b>Merge</b> Conflict: happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. Git can often resolve differences between branches and merge them automatically.
+* <b>Merge Conflict:</b> happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. Git can often resolve differences between branches and merge them automatically.
 
 * <b>Push:</b> is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.
 
