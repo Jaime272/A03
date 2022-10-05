@@ -29,15 +29,27 @@ Then click on push then a window will appear then click on merge.
 Glossary to include these terms in a bulleted list.
 
 <b>Branch:</b> A branch is a version of your repository, or in other words, an independent line of development. A repository can contain multiple branches,
+
 <b>Clone:</b> is primarily used to point to an existing repo and make a clone or copy of that repo in a new directory, at another location. 
+
 <b>Commit:</b> changes locally﻿ As your changes are ready to be committed, select the corresponding files or an entire changelist.
+
 <b>Fetch: </b>a primary command used to download contents from a remote repository. git fetch is used in conjunction with git remote
-<b>GIT:</b>  Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development
+
+<b>GIT:</b>  Git is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among
+programmers collaboratively developing source code during software development
+
 <b>Github:</b> is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+
 <b>Merge:</b> is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by the git branch and integrate them into a single branch.
+
 <b>Merge</b> Conflict: happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. Git can often resolve differences between branches and merge them automatically.
+
 <b>Push:</b> is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo.
+
 <b>Pull:</b> pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content
+
 <b>Remote:</b> A remote repository in Git, also called a remote, is a Git repository that's hosted on the Internet or another network.
+
 <b>Repository:</b> A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
 
